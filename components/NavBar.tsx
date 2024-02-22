@@ -22,7 +22,7 @@ const NavBar = () => {
           containerStyle="text-primary-blue rounded-full bg-white min-w-[130px]"
         />
       </nav>
-      <div>test</div>
+      <div>test 2</div>
     </header>
   );
 };
